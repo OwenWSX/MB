@@ -1,1 +1,6 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/sailor-free-bootstrap-theme/
+Thanks for downloading this template!
+
+Template Name: Sailor
+Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
